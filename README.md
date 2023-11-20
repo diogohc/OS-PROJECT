@@ -1,6 +1,6 @@
 # OS Project
 
-# Tech Stack
+# Concepts Applied
   - Processes
   - Threads
   - Shared Memory
