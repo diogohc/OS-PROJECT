@@ -1,6 +1,6 @@
 # OS Project
 
-# Concepts Applied
+# Applied Concepts
   - Processes
   - Threads
   - Shared Memory
